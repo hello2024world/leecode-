@@ -1,5 +1,3 @@
-package com.atguigu.redis7.exam;
-
 /**
  * @author shkstart
  * @create 2024-08-26 10:35
