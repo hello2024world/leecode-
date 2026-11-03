@@ -22,7 +22,6 @@ public class LeetCode437 {
     public void findByLeftOrder(TreeNode root,int target){
         if(root == null) return;
 
-        //todo
         //一个能判断当前节点向下求和是否存在目标值的方法
         DeepFindOrder(root,target,0);
 
