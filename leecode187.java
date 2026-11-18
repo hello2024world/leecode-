@@ -1,3 +1,7 @@
+import java.util.ArrayList;
+import java.util.HashMap;
+import java.util.List;
+
 public class leecode187 {
     public List<String> findRepeatedDnaSequences(String s) {
         //方式一，没通过最后的一个测试用例（超时）

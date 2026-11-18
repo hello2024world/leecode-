@@ -1,3 +1,5 @@
+import java.util.HashSet;
+
 public class leecode73 {
     public void setZeroes(int[][] matrix) {
         //记录出现0元素位置的坐标

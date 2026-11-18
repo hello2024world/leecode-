@@ -1,3 +1,5 @@
+import java.util.HashSet;
+
 public class leecode83 {
     public ListNode deleteDuplicates(ListNode head) {
         HashSet<Integer> set = new HashSet<>();
